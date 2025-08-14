@@ -45,6 +45,7 @@ INSTALLED_APPS = [
     'inventario',
     'carro',
     'autenticacion',
+    'setuptools',
     'crispy_forms',
     'crispy_bootstrap4',
     'pedidos',
